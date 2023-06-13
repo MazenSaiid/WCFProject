@@ -1,0 +1,12 @@
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\bin\Debug\ClientSide.exe.config
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\bin\Debug\ClientSide.exe
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\bin\Debug\ClientSide.pdb
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\obj\Debug\ClientSide.csproj.AssemblyReference.cache
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\obj\Debug\ClientSide.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\obj\Debug\ClientSide.exe
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\obj\Debug\ClientSide.pdb
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\bin\Debug\EvalService.dll
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\bin\Debug\EvalService.pdb
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\bin\Debug\EvalService.dll.config
+D:\C# Projects\WcfServiceLibraryDemo\ClientSide\obj\Debug\ClientSide.csproj.CopyComplete

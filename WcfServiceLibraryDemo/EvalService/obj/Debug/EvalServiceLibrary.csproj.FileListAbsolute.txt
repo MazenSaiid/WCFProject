@@ -1,0 +1,7 @@
+D:\C# Projects\WcfServiceLibraryDemo\EvalService\bin\Debug\EvalService.dll.config
+D:\C# Projects\WcfServiceLibraryDemo\EvalService\bin\Debug\EvalService.dll
+D:\C# Projects\WcfServiceLibraryDemo\EvalService\bin\Debug\EvalService.pdb
+D:\C# Projects\WcfServiceLibraryDemo\EvalService\obj\Debug\EvalServiceLibrary.csproj.AssemblyReference.cache
+D:\C# Projects\WcfServiceLibraryDemo\EvalService\obj\Debug\EvalServiceLibrary.csproj.CoreCompileInputs.cache
+D:\C# Projects\WcfServiceLibraryDemo\EvalService\obj\Debug\EvalService.dll
+D:\C# Projects\WcfServiceLibraryDemo\EvalService\obj\Debug\EvalService.pdb

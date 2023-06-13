@@ -1,0 +1,12 @@
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\bin\Debug\ConsoleHost.exe
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\bin\Debug\ConsoleHost.pdb
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\bin\Debug\EvalService.dll
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\bin\Debug\EvalService.pdb
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\bin\Debug\EvalService.dll.config
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\obj\Debug\ConsoleHost.csproj.AssemblyReference.cache
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\obj\Debug\ConsoleHost.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\obj\Debug\ConsoleHost.csproj.CoreCompileInputs.cache
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\obj\Debug\ConsoleHost.csproj.CopyComplete
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\obj\Debug\ConsoleHost.exe
+D:\C# Projects\WcfServiceLibraryDemo\ConsoleHost\obj\Debug\ConsoleHost.pdb
